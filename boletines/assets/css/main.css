@@ -117,7 +117,7 @@ th{
   border-radius: 4px;
   margin-right: 0.8em;
 }
-@media(min-with:900px){
+@media screen and (min-with:900px){
 th{
   display: table-cell;
 }
@@ -132,7 +132,7 @@ td:nth-of-type(1){
   padding: 1.8em;
 }
 }
-@media (min-height:550px){
+@media screen and (min-height:550px){
   .content{
     height: 500px;
   }

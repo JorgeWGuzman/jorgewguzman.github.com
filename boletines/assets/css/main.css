@@ -118,7 +118,7 @@ th{
   margin-right: 0.8em;
 }
 
-@media(max-width:900px){
+@media screen and (min-width:900px){
   th{
     display: table-cell;
   }
@@ -133,7 +133,7 @@ th{
     padding: 1.8em;
   }
 }
-@media(min-width:600px){
+@media screen and (min-width:600px){
   th{
     display: table-cell;
   }
@@ -148,7 +148,7 @@ th{
     padding: 1.8em;
   }
 }
-@media(min-height:550px){
+@media screen and (min-height:550px){
   .content{
     height: 500px;
   }

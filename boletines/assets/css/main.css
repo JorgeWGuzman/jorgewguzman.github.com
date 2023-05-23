@@ -151,6 +151,6 @@ th{
 @media screen and (max-height:900px){
   .content{
     height: 880px;
-    padding-top: 0.5em;
+    padding-top: 1em;
   }
 }

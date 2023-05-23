@@ -148,8 +148,8 @@ th{
     padding: 1.8em;
   }
 }
-@media screen and (min-height:700px){
+@media screen and (max-height:800px){
   .content{
-    height: 680px;
+    height: 780px;
   }
 }

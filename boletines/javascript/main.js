@@ -5,7 +5,7 @@ links.forEach(function(link){
   console.log(link);
 });
 */
-
+/*
 let links = document.querySelectorAll(".close");
 
 links.forEach(function(link){
@@ -24,3 +24,4 @@ links.forEach(function(link){
     return false;
   });
 });
+*/

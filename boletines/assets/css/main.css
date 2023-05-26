@@ -156,12 +156,12 @@ th{
 }
 @media screen and (min-height:900px){
   .content{
-    height: 800px;
+    height: 850px;
     padding: 1em;
   }
   .title-item{
     border-bottom: solid 2px #45B649;
-    font-size: 1em;
+    font-size: 0.7em;
     padding-bottom: 1em;
     text-align: center;
   }

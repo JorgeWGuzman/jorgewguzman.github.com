@@ -20,8 +20,9 @@ links.forEach(function(link){
     content.classList.add("animate__animated");
     content.classList.add("animate__fadeOutUp");
 
-
-    location.href = "/";
+    setTimeout(function(){
+      location.href = "/";
+    },600);
 
     return false;
   });

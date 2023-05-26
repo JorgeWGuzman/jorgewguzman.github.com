@@ -95,8 +95,9 @@ th{
 
 .title-item{
   border-bottom: solid 2px #45B649;
-  font-size: 2em;
-  padding-bottom: 1em;
+  font-size: 1.5em;
+  padding-bottom: 0.8em;
+  text-align: center;
 }
 .address{
   font-weight: bold;

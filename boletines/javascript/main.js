@@ -15,7 +15,7 @@ links.forEach(function(link){
     content.classList.remove("animate__fadeInDown");
     content.classList.remove("animate__animated");
 
-    content.classList.add("animate__fadeOutUp");
+    content.classList.add("animate__fadeInDown");
     content.classList.add("animate__animated");
 
     location.href = "/";

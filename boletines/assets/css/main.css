@@ -154,6 +154,12 @@ th{
   .content{
     padding: 1.8em;
   }
+  .title-item{
+    border-bottom: solid 2px #45B649;
+    font-size: 0.7em;
+    padding-bottom: 1em;
+    text-align: center;
+  }
 }
 @media screen and (min-height:900px){
   .content{

@@ -5,6 +5,7 @@ links.forEach(function(link){
   console.log(link);
 });
 */
+/*
 let links = document.querySelectorAll(".close");
 
 links.forEach(function(link){
@@ -17,9 +18,10 @@ links.forEach(function(link){
 /*
     content.classList.add("animate__fadeOutUp");
     content.classList.add("animate__animated")
-*/
+
     location.href = "/";
 
     return false;
   });
 });
+*/

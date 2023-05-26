@@ -1,5 +1,5 @@
 console.log("Bienvenido a doble mensaje de Javascript");
 
-let tabla = document.querySelector(".table");
+let links = document.querySelectorAll("a");
 
-console.log(tabla);
+console.log(links);

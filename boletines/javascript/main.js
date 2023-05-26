@@ -1,7 +1,7 @@
 let links = document.querySelectorAll(".close");
 
 links.forEach(function(link){
-  
+
   link.addEventListener("click",function(ev){
     ev.preventDefault();
     let content = document.querySelector('.content');
@@ -12,7 +12,7 @@ links.forEach(function(link){
     content.classList.add("animate__fadeOutUp");
 
     setTimeout(function(){
-      location.href = "/";
+      location.href = "/boletines";
     },600);
 
     return false;

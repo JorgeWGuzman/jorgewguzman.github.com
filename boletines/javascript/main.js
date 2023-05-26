@@ -12,9 +12,9 @@ links.forEach(function(link){
     ev.preventDefault();
     let content = document.querySelector('.content');
 
-    content.classList.remove("animate__animated animate__fadeInDown");
+    content.classList.remove("animate__fadeInDown");
 
-    content.classList.add("animate__animated animate__fadeOutUp");
+    content.classList.add("animate__fadeOutUp");
 
     location.href = "/";
 

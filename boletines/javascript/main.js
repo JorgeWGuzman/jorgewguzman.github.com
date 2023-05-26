@@ -5,7 +5,7 @@ links.forEach(function(link){
   console.log(link);
 });
 
-/*
+
 let links = document.querySelectorAll(".close");
 
 links.forEach(function(link){
@@ -17,7 +17,7 @@ links.forEach(function(link){
     content.classList.remove("animate__animated");
     content.classList.remove("animate__fadeInDown");
 
-    content.classList.add("animate__animated")
+    content.classList.add("animate__animated");
     content.classList.add("animate__fadeOutUp");
 
 
@@ -26,4 +26,3 @@ links.forEach(function(link){
     return false;
   });
 });
-*/

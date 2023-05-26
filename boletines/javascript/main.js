@@ -19,7 +19,7 @@ links.forEach(function(link){
     content.classList.add("animate__animated");
 
     location.href = "/";
-    
+
     return false;
   });
 });
